@@ -5,6 +5,7 @@
 - 🔭 **I’m currently working on exciting Data Analytics  and ML Projects**
 - 🌱 **I’m currently learning Microsoft Fabric ,Pyspark ,Python** 
 - 💬 **Ask me about  anything tech!**
+-  🌐 **Portfolio:** [Click to Visit](https://nikita-nigade.netlify.app/)  
 - 📫 **How to reach me : nigadenikita7825@gmail.com**
 - 😄 **Pronouns: Nikii**
 - ⚡ **Fun fact: I Love Tech and Tech Love Me 😊**
